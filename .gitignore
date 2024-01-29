@@ -48,6 +48,7 @@ launch.json
 # Visual Studio cache directory
 .vs/
 /UnityProject/.vs
+*.vsconfig
 
 # Gradle cache directory
 .gradle/
